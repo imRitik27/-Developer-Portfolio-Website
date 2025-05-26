@@ -1,16 +1,8 @@
-A clean, fully responsive personal portfolio website built with **React** and **Tailwind CSS**. This site showcases my projects, experience, skills, and provides a way to get in touch.
+# React + Vite
 
-## 🚀 Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- ⚡ Fast and lightweight (built with Vite)
-- 🎨 Beautiful UI using Tailwind CSS
-- 📱 Fully responsive design for all screen sizes
-- 🧩 Modular React components
-- 🔗 Smooth navigation between sections
-- ☁️ Deployed using [Vercel/Netlify]
+Currently, two official plugins are available:
 
-## 🛠️ Tech Stack
-
-- **Frontend:** React, Tailwind CSS, JavaScript
-- **Build Tool:** Vite
-- **Deployment:** Vercel / Netlify
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
